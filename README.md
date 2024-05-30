@@ -2,7 +2,7 @@
 
 Human Scream Detection is a Python project that records audio using the PyAudio module and detects human screams in the audio. If a scream is detected, the program sends an alert email to a designated helpline. The project includes a graphical user interface (GUI) created with the Tkinter module, offering four main functionalities: recording audio, predicting screams in recorded audio, selecting audio from local files, and testing selected files.
 
-![ScreenShot of GHI of this project](relative/path/to/image.png)
+![ScreenShot of GHI of this project](https://github.com/Kunal-kawate/Human_Scream_Detection_ML_Python/blob/main/ScreenShot/GUI.png)
 
 ## Features
 
