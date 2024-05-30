@@ -17,7 +17,7 @@ def SMTP(probability):
     PORT = 587
 
     FROM_EMAIL = "kunalkawate242@gmail.com"
-    PASSWORD = '**********' # go to your gmail setting and create app password  
+    PASSWORD = '**********' # go to your gmail setting and create app password and enter that password key here
 
     TO_EMAIL = 'kunalkawate424@gmail.com'
     subject= 'Human Scream Detection Project'
