@@ -10,7 +10,7 @@ Human Scream Detection is a Python project that records audio using the PyAudio 
 - **Predict Scream in Recorded Audio**: Analyze recorded audio to detect human screams.
 - **Select Audio from Local Files**: Choose pre-recorded audio files from local storage for analysis.
 - **Test Selected File**: Test an audio file from local storage for the presence of human screams and trigger an alert if detected.
-- NOTE- use Negative Folder sounds to testing screaming , which are negative for screaming detection.....
+- NOTE- use Negative Folder sounds to testing scream , which are negative for scream detection.....
 
 ## Project Structure
 
